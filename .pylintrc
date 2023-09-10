@@ -2,4 +2,7 @@
 disable=missing-module-docstring,missing-class-docstring,missing-function-docstring
 
 [FORMAT]
-good-names=fn
+good-names=b,ch,f,fn,g,p,q,r,s,x1,x2,xs,y1,y2,ys
+
+[TYPECHECK]
+ignored-classes=cv2
